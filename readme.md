@@ -9,7 +9,7 @@
 
 ## Methods
  * Download the data
-  * Bullet list
+  * Clean data
      * Eliminate anime with 0
     * Change the Null to 0 in type and genre
 * Cleaned data(Anime.file)
