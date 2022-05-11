@@ -19,3 +19,7 @@
 
 * Consine Similarity formula 
 ![cosine](https://miro.medium.com/max/1400/1*LfW66-WsYkFqWc4XYJbEJg.png)
+
+## anime_0 
+This is a simple anime recommendation . I did not use Cosine similarity for this file. I choose the only [type = TV]. I randomly sample one row from the data set. 
+- panda
